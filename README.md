@@ -52,7 +52,6 @@
 ### DevOps  
 <div align="center">  
 <a><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Git" height="50" /></a>  
 <a><img style="margin: 10px" src="https://my-profile-hammadullahkhan12.vercel.app/assets/docker.svg" alt="Git" height="50" /></a>  
 <a><img style="margin: 10px" src="  https://my-profile-hammadullahkhan12.vercel.app/assets/heroku.svg" alt="Git" height="50" /></a>  
