@@ -4,15 +4,16 @@
 - 🔭 I have 5+ years of experience. 
   
 
-- 🌱 My favourite tech stack is Next.JS 
+- 🌱 My favourite tech stack is Next.JS & GraphQL
   
 
 - 👯 I’m looking to collaborate on any projects  
   
 
-- ⚡ Fun fact: My music taste is horrible  
-  
+- ⚡ Fun fact: My music taste is horrible
 
+- https://my-profile-hammadullahkhan12.vercel.app/
+  
 <br/>  
 
 
@@ -54,7 +55,7 @@
 <a><img style="margin: 10px" src="https://my-profile-hammadullahkhan12.vercel.app/assets/amazon-web-services.svg" alt="AWS" height="50" /></a>  
 <a><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Git" height="50" /></a>  
 <a><img style="margin: 10px" src="https://my-profile-hammadullahkhan12.vercel.app/assets/docker.svg" alt="Git" height="50" /></a>  
-<a><img style="margin: 10px" src="  https://my-profile-hammadullahkhan12.vercel.app/assets/heroku.svg" alt="Git" height="50" /></a>  
+<a><img style="margin: 10px" src="https://my-profile-hammadullahkhan12.vercel.app/assets/heroku.svg" alt="Git" height="50" /></a>  
 </div>
 
 </td></tr></table>  
