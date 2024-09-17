@@ -1,7 +1,7 @@
 ### <div align="center">Hi, I'm <a href="https://www.linkedin.com/in/hammad-ullah-khan-35605b10b/">Hammad </a>, a Full Stack Developer 👨‍💻</div>  
   
 
-- 🔭 I have 5+ years of experience. 
+- 🔭 I have 6+ years of experience. 
   
 
 - 🌱 My favourite tech stack is Next.JS & GraphQL
@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact: My music taste is horrible
 
-- https://my-profile-hammadullahkhan12.vercel.app/
+- https://my-profile-hammadullahkhan12s-projects.vercel.app/
 - https://leetcode.com/u/hammadullahkhan02/
 
 <br/>  
