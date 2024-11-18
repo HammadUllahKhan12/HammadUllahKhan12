@@ -9,4 +9,4 @@
 
 📫 You can reach out to me on:
 
-Linkedin: https://www.linkedin.com/in/hammad-khan000/
+<a href="https://www.linkedin.com/in/hammad-khan000/" target="_blank" rel="noopener noreferrer">LinkedIn: Hammad Khan</a>
