@@ -10,4 +10,3 @@
 📫 You can reach out to me on:
 
 Linkedin: https://www.linkedin.com/in/hammad-khan000/
-Github: HammadUllahKhan12
